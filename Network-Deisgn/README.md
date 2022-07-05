@@ -1,6 +1,7 @@
 **Background**
 ComfortHealth provides support and medical care to patients across Ontario, all within the comfort of their own homes. As the elderly population and government incentives continue to rise, so does the demand for ComfortHealth’s services. As seen by the chart below, ComfortHealth has experienced significant growth over the last nine years in each serviced region, allowing for the support of even more patients and a further reduction in the overall operational costs in hospitals. 
  ![image](https://user-images.githubusercontent.com/60298572/177382925-41699c6d-7bbc-4181-a8b1-e6addd12e2c4.png)
+
 The last nine years have been excellent for ComfortHealth, and now it is time to use analytics to help strategize a three-year annual service plan. This plan will include information about the hiring and allocation of the workforce in medical facilities, including how the geographical areas covered by ComfortHealth will be served by the agency during these next three years. This report will cover the following managerial objectives:
 1.	There are two new possible medical centers that ComfortHealth surveyed and that can be opened in the first year (Centers “E” and “F”). Are they worth the investment?
 2.	How should the HPs from each medical center be assigned to the different regions? 
