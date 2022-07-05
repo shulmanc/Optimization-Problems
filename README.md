@@ -1,2 +1,2 @@
 # Optimization-Problems
-Solving supply chain challenges using optimization methods
+One of my favorite classes while completing my master's was the optimizing supply chain management and logistics course because it really put my problem solving skills to the test as I tackled typical operations and supply chain management problems, including network design, inventory management, assortment and price optimization, and service process design. This repository contains the analytics solutions to some of these problems
