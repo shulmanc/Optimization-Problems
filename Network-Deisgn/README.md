@@ -8,6 +8,9 @@ The last nine years have been excellent for ComfortHealth, and now it is time to
 3.	ComfortHealth is concerned about the impact of rejecting too many patients, in that doctors and patients may refrain from suggesting the agency as a viable option to colleagues. How would an (optimal) solution that accepts all patients differ from another with full accept/reject flexibility? Is that a viable option for ComfortHealth? If not, why, and how we could make it viable?
 4.	How many new HPs should be hired to each medical center during these next three years? 
 
+![image](https://user-images.githubusercontent.com/60298572/177383514-1aacf6ef-a94f-410f-b286-8a5c4c33ca7c.png)
+
+
 **Model Insights**
 Following the development of several models, the following clear takeaways were derived:
 1.	Center F is not worth the investment due to lack of nearby demand a large costs, and center C could be sold or rented out as there is no specific region it services. 
