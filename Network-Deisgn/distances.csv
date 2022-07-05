@@ -1,0 +1,43 @@
+Center,Region,Distance,2022 Cost
+Center A,Downtown Toronto,25.77,2.2925
+Center A,East York,2.24,-3.59
+Center A,Etobicoke,25.72,2.28
+Center A,Mississauga East,28.65,3.0125
+Center A,North Toronto,11.64,-1.24
+Center A,North York,0,-4.15
+Center A,Scarborough East,19.76,0.79
+Center B,Downtown Toronto,29.88,3.32
+Center B,East York,16.04,-0.14
+Center B,Etobicoke,31.11,3.6275
+Center B,Mississauga East,33.93,4.3325
+Center B,North Toronto,25.05,2.1125
+Center B,North York,22.98,1.595
+Center B,Scarborough East,0,-4.15
+Center C,Downtown Toronto,19.1,0.625
+Center C,East York,22.45,1.4625
+Center C,Etobicoke,26.93,2.5825
+Center C,Mississauga East,21.58,1.245
+Center C,North Toronto,22.99,1.5975
+Center C,North York,20.52,0.98
+Center C,Scarborough East,14.86,-0.435
+Center D,Downtown Toronto,29.88,3.32
+Center D,East York,16.04,-0.14
+Center D,Etobicoke,31.11,3.6275
+Center D,Mississauga East,0,-4.15
+Center D,North Toronto,25.05,2.1125
+Center D,North York,22.98,1.595
+Center D,Scarborough East,26.78,2.545
+Center E,Downtown Toronto,6.37,-2.5575
+Center E,East York,20.93,1.0825
+Center E,Etobicoke,23.2,1.65
+Center E,Mississauga East,20.65,1.0125
+Center E,North Toronto,0,-4.15
+Center E,North York,11.64,-1.24
+Center E,Scarborough East,25.89,2.3225
+Center F,Downtown Toronto,18.83,0.5575
+Center F,East York,30.7,3.525
+Center F,Etobicoke,25.64,2.26
+Center F,Mississauga East,0,-4.15
+Center F,North Toronto,20.65,1.0125
+Center F,North York,28.65,3.0125
+Center F,Scarborough East,17.01,0.1025
