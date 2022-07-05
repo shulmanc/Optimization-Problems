@@ -1,0 +1,103 @@
+name,province,code,latitude,longitude
+Scarborough (Malvern / Rouge River),Ontario,M1B,43.8113,-79.193
+Scarborough (Rouge Hill / Port Union / Highland Creek),Ontario,M1C,43.7878,-79.1564
+Scarborough (Guildwood / Morningside / Ellesmere),Ontario,M1E,43.7678,-79.1866
+Scarborough (Woburn),Ontario,M1G,43.7712,-79.2144
+Scarborough (Cedarbrae),Ontario,M1H,43.7686,-79.2389
+Scarborough (Eglinton),Ontario,M1J,43.7464,-79.2323
+Scarborough (Kennedy Park / Ionview / East Birchmount Park),Ontario,M1K,43.7298,-79.2639
+Scarborough (The Golden Mile / Clairlea / Oakridge / Birchmount Park East),Ontario,M1L,43.7122,-79.2843
+Scarborough (Cliffside / Cliffcrest / Scarborough Village West),Ontario,M1M,43.7247,-79.2312
+Scarborough (Birch Cliff / Cliffside West),Ontario,M1N,43.6952,-79.2646
+Scarborough (Dorset Park / Wexford Heights / Scarborough Town Centre),Ontario,M1P,43.7612,-79.2707
+Scarborough (Wexford / Maryvale),Ontario,M1R,43.7507,-79.3003
+Scarborough (Agincourt),Ontario,M1S,43.7946,-79.2644
+Scarborough (Clarks Corners / Tam O'Shanter / Sullivan),Ontario,M1T,43.7812,-79.3036
+Scarborough (Milliken / Agincourt North / Steeles East / L'Amoreaux East),Ontario,M1V,43.8177,-79.2819
+Scarborough (Steeles West / L'Amoreaux West),Ontario,M1W,43.8016,-79.3216
+Scarborough (Upper Rouge),Ontario,M1X,43.834,-79.2069
+North York (Hillcrest Village),Ontario,M2H,43.8015,-79.3577
+North York (Fairview / Henry Farm / Oriole),Ontario,M2J,43.7801,-79.3479
+North York (Bayview Village),Ontario,M2K,43.7797,-79.3813
+North York (York Mills / Silver Hills),Ontario,M2L,43.7547,-79.3764
+Willowdale East (Newtonbrook),Ontario,M2M,43.7915,-79.4103
+Willowdale South,Ontario,M2N,43.7673,-79.4111
+North York (York Mills West),Ontario,M2P,43.75,-79.3978
+Willowdale West,Ontario,M2R,43.7786,-79.445
+North York (York Heights / Victoria Village / Parkway East),Ontario,M3A,43.7545,-79.33
+Don Mills North,Ontario,M3B,43.745,-79.359
+Don Mills South (Flemingdon Park),Ontario,M3C,43.7334,-79.3329
+North York (Armour Heights / Wilson Heights / Downsview North),Ontario,M3H,43.7535,-79.4472
+North York (Northwood Park / York University),Ontario,M3J,43.7694,-79.4921
+Downsview East (CFB Toronto),Ontario,M3K,43.739,-79.4692
+Downsview West,Ontario,M3L,43.7334,-79.5116
+Downsview Central,Ontario,M3M,43.7319,-79.4928
+North York (Jane and Finch),Ontario,M3N,43.7568,-79.521
+North York (Sweeney Park / Wigmore Park),Ontario,M4A,43.7276,-79.3148
+East York (Parkview Hill / Woodbine Gardens),Ontario,M4B,43.7063,-79.3094
+East York (Woodbine Heights),Ontario,M4C,43.6913,-79.3116
+East Toronto (The Beaches),Ontario,M4E,43.6784,-79.2941
+East York (Leaside),Ontario,M4G,43.7124,-79.3644
+East York (Thorncliffe Park),Ontario,M4H,43.7059,-79.3464
+East Toronto (The Danforth East),Ontario,M4J,43.6872,-79.3368
+East Toronto (The Danforth West / Riverdale),Ontario,M4K,43.6803,-79.3538
+East Toronto (India Bazaar / The Beaches West),Ontario,M4L,43.6693,-79.3155
+East Toronto (Studio District),Ontario,M4M,43.6561,-79.3406
+Central Toronto (Lawrence Park East),Ontario,M4N,43.7301,-79.3935
+Central Toronto (Davisville North),Ontario,M4P,43.7135,-79.3887
+Central Toronto (North Toronto West),Ontario,M4R,43.7143,-79.4065
+Central Toronto (Davisville),Ontario,M4S,43.702,-79.3853
+Central Toronto (Moore Park / Summerhill East),Ontario,M4T,43.6899,-79.3853
+Central Toronto (Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park),Ontario,M4V,43.6861,-79.4025
+Downtown Toronto (Rosedale),Ontario,M4W,43.6827,-79.373
+Downtown Toronto (St. James Town / Cabbagetown),Ontario,M4X,43.6684,-79.3689
+Downtown Toronto (Church and Wellesley),Ontario,M4Y,43.6656,-79.383
+Downtown Toronto (Regent Park / Port of Toronto),Ontario,M5A,43.6555,-79.3626
+Downtown Toronto (Ryerson),Ontario,M5B,43.6572,-79.3783
+Downtown Toronto (St. James Park),Ontario,M5C,43.6513,-79.3756
+Downtown Toronto (Berczy Park),Ontario,M5E,43.6456,-79.3754
+Downtown Toronto (Central Bay Street),Ontario,M5G,43.6564,-79.386
+Downtown Toronto (Richmond / Adelaide / King),Ontario,M5H,43.6496,-79.3833
+Downtown Toronto (Harbourfront East / Union Station / Toronto Island),Ontario,M5J,43.623,-79.3936
+Downtown Toronto (Toronto Dominion Centre / Design Exchange),Ontario,M5K,43.6469,-79.3823
+Downtown Toronto (Commerce Court / Victoria Hotel),Ontario,M5L,43.6492,-79.3823
+North York (Bedford Park / Lawrence Park West / Lawrence Manor East),Ontario,M5M,43.7335,-79.4177
+Central Toronto (Roselawn),Ontario,M5N,43.7113,-79.4195
+Central Toronto (Forest Hill North & West),Ontario,M5P,43.6966,-79.412
+Central Toronto (The Annex / North Midtown / Yorkville),Ontario,M5R,43.6736,-79.4035
+Downtown Toronto (University of Toronto / Harbord),Ontario,M5S,43.6629,-79.3987
+Downtown Toronto (Kensington Market / Chinatown / Grange Park),Ontario,M5T,43.6541,-79.3978
+Downtown Toronto (CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / YTZ),Ontario,M5V,43.6404,-79.3995
+Downtown Toronto Stn A PO Boxes 25 The Esplanade (Enclave of M5E),Ontario,M5W,43.6437,-79.3787
+Downtown Toronto (Underground city),Ontario,M5X,43.6492,-79.3823
+North York (Lawrence Manor / Lawrence Heights),Ontario,M6A,43.7223,-79.4504
+North York (Glencairn),Ontario,M6B,43.7081,-79.4479
+York (Cedarvale),Ontario,M6C,43.6915,-79.4307
+York (Fairbank / Oakwood),Ontario,M6E,43.6889,-79.4507
+Downtown Toronto (Christie),Ontario,M6G,43.6683,-79.4205
+West Toronto (Dufferin / Dovercourt Village),Ontario,M6H,43.6655,-79.4378
+West Toronto (Rua Aþores / Trinity),Ontario,M6J,43.648,-79.4177
+West Toronto (Brockton / Parkdale Village / Exhibition Place),Ontario,M6K,43.6383,-79.4301
+North York (North Park / Maple Leaf Park / Upwood Park),Ontario,M6L,43.7137,-79.4869
+York (Del Ray / Keelsdale / Mount Dennis / Silverthorne),Ontario,M6M,43.6934,-79.4857
+York (Runnymede / The Junction North),Ontario,M6N,43.6748,-79.4839
+West Toronto (High Park / The Junction South),Ontario,M6P,43.6605,-79.4633
+West Toronto (Parkdale / Roncesvalles Village),Ontario,M6R,43.6469,-79.4521
+West Toronto (Bloor West Village / Swansea),Ontario,M6S,43.6512,-79.4828
+Queen's Park Ontario Provincial Government,Ontario,M7A,43.6641,-79.3889
+East Toronto Business Reply Mail Processing Centre 969 Eastern (Enclave of M4L),Ontario,M7Y,43.7804,-79.2505
+Etobicoke (New Toronto / Mimico South / Humber Bay Shores),Ontario,M8V,43.6075,-79.5013
+Etobicoke (Alderwood / Long Branch),Ontario,M8W,43.6021,-79.5402
+Etobicoke (The Kingsway / Montgomery Road / Old Mill North),Ontario,M8X,43.6518,-79.5076
+Etobicoke (Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East),Ontario,M8Y,43.6325,-79.4939
+Etobicoke (Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West),Ontario,M8Z,43.6256,-79.5231
+Etobicoke (Islington Avenue),Ontario,M9A,43.6662,-79.5282
+Etobicoke (West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale),Ontario,M9B,43.6505,-79.5517
+Etobicoke (Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Woods),Ontario,M9C,43.6437,-79.5767
+North York (Humber Summit),Ontario,M9L,43.7598,-79.5565
+North York (Humberlea / Emery),Ontario,M9M,43.7366,-79.5401
+Weston,Ontario,M9N,43.7068,-79.517
+Etobicoke (Westmount),Ontario,M9P,43.6949,-79.5323
+Etobicoke (Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens),Ontario,M9R,43.6898,-79.5582
+Etobicoke (South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens),Ontario,M9V,43.7432,-79.5876
+Etobicoke Northwest (Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale),Ontario,M9W,43.7144,-79.5909
